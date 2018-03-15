@@ -7,6 +7,7 @@ function findWaldo(arr, found) {
   }
 }
 
+
 function actionWhenFound(i) {
   console.log("Found him at index",i);
 }
